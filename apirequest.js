@@ -1,5 +1,5 @@
-let client = 1830***
-let apiKey = fdf68ae7-4416-****-****-*******
+let client = "1830***"
+let apiKey = "fdf68ae7-4416-****-****-*******"
 
 /*
 I am uploading a total of 4 images as an image array, but it only uploads 1 of them and gives the error that the others could not be downloaded. What is the problem?
